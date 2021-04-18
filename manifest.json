@@ -1,5 +1,5 @@
 {
-  "name": "Twitter : Unfollower(2021) !",
+  "name": "Unfollower for Pinterest(2021) !",
   "background": {
         "scripts": [
             "src/bg/background.js"
@@ -7,7 +7,7 @@
     },
   "version": "0.0.5",
   "manifest_version": 2,
-  "description": "very simple Macro unfollower for twitter",
+  "description": "very simple Macro unfollower for Pinterest",
   "homepage_url": "http://frxangelz.blogspot.com",
   "icons": {
     "16": "icons/icon16.png",
@@ -17,7 +17,7 @@
   "default_locale": "en",
   "browser_action": {
     "default_icon": "icons/icon19.png",
-    "default_title": "Twitter unfollower",
+    "default_title": "Unfollower for Pinterest",
     "default_popup": "src/browser_action/browser_action.html"
   },
   "permissions": [
@@ -28,8 +28,8 @@
     "idle",
     "notifications",
     "tabs",
-    "http://*.twitter.com/*",
-    "https://twitter.com/*"
+    "http://*.pinterest.com/*",
+    "https://pinterest.com/*"
   ],
   "content_scripts": [
     {
