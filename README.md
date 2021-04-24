@@ -6,5 +6,8 @@ pinterest unfollower macro is the best tool for easy and quick pinterest unfollo
 
 you can set min-max interval between unfollow action( in seconds ), to make it more random, you should keep interval between 5-30.
 
+Youtube Demo :
+https://www.youtube.com/watch?v=XOH3aHxWYFs
+
 my youtube channel :
 https://www.youtube.com/c/freeangelz?sub_confirmation=1
