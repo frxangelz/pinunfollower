@@ -5,7 +5,7 @@
             "src/bg/background.js"
         ]
     },
-  "version": "0.0.5",
+  "version": "0.0.6",
   "manifest_version": 2,
   "description": "very simple Macro unfollower for Pinterest",
   "homepage_url": "http://frxangelz.blogspot.com",
@@ -21,13 +21,7 @@
     "default_popup": "src/browser_action/browser_action.html"
   },
   "permissions": [
-    "contentSettings",
     "background",
-    "cookies",
-    "fileBrowserHandler",
-    "idle",
-    "notifications",
-    "tabs",
     "http://*.pinterest.com/*",
     "https://pinterest.com/*"
   ],
