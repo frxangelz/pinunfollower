@@ -9,5 +9,5 @@ you can set min-max interval between unfollow action( in seconds ), to make it m
 Youtube Demo :
 https://www.youtube.com/watch?v=XOH3aHxWYFs
 
-my youtube channel :
-https://www.youtube.com/c/freeangelz?sub_confirmation=1
+Please subscribe :
+https://www.youtube.com/channel/UCqRqvw9n7Lrh79x3dRDOkDg
